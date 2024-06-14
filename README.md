@@ -11,4 +11,4 @@ A short project, coded in C, that manages a contact list using a doubly linked l
 An SQL project that manages the database of a fictional car dealership. Apart from table creation, structure alteration and data insertion, it also contains views and queries, which are used to display relevant information, such as the performance of different selling locations.
 
 ### [Windows and Linux virtual machines](https://github.com/meli1230/windows_and_linux_vms)
-A project that contains 3 virtual machines: a machine that runs Windows Server, one that runs Windows Client and the last one running Ubuntu. The alterations made in each VM is thoroughly described in the README file of the project.
+A project that contains 3 virtual machines: a machine that runs Windows Server, one that runs Windows Client and the last one running Ubuntu. You can find more details in the README file.
