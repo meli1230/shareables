@@ -7,8 +7,8 @@ In order to acces a project, click on its name.
 ### [Contacts list](https://github.com/meli1230/contacts_list)
 A short project, coded in C, that manages a contact list using a doubly linked list. The program allows you to add or remove contacts, to search contacts by name and to display all the contacts. It also includes two sorting functions, each using a different sorting algorithm.
 
-### [Project Beta](https://github.com/yourusername/project-beta)
-Project Beta is designed to address issue Y. It incorporates innovative features like D, E, and F to provide a seamless workflow.
+### [Fictional car dealership](https://github.com/meli1230/car_dealership)
+An SQL project that manages the database of a fictional car dealership. Apart from table creation, structure alteration and data insertion, it also contains views and queries, which are used to display relevant information, such as the performance of different selling locations.
 
-### [Project Gamma](https://github.com/yourusername/project-gamma)
-Project Gamma focuses on solving challenge Z. It leverages the power of G, H, and I to achieve remarkable results.
+### [Windows and Linux virtual machines](https://github.com/meli1230/windows_and_linux_vms)
+A project that contains 3 virtual machines: a machine that runs Windows Server, one that runs Windows Client and the last one running Ubuntu. The alterations made in each VM is thoroughly described in the README file.
