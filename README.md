@@ -1,4 +1,4 @@
-# My projects
+# My portfolio
 Welcome to my portfolio. Here you can find links to some of my projects.<br/>
 In order to acces a project, click on its name.
 
