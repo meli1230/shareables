@@ -12,3 +12,7 @@ An SQL project that manages the database of a fictional car dealership. Apart fr
 
 ### [Windows and Linux virtual machines](https://github.com/meli1230/windows_and_linux_vms)
 A project that contains 3 virtual machines: a machine that runs Windows Server, one that runs Windows Client and the last one running Ubuntu. You can find more details in the README file.
+
+# Contact
+## LinkedIn
+https://www.linkedin.com/in/melisa-marian-733883201/recent-activity/all/
