@@ -15,4 +15,4 @@ A project that contains 3 virtual machines: a machine that runs Windows Server, 
 
 # Contact
 ## LinkedIn
-https://www.linkedin.com/in/melisa-marian-733883201/recent-activity/all/
+https://www.linkedin.com/in/melisa-marian-733883201/
