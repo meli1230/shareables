@@ -10,7 +10,7 @@ A short project, coded in C, that manages a contact list using a doubly linked l
 ### [Fictional car dealership - SQL](https://github.com/meli1230/car_dealership)
 An SQL project that manages the database of a fictional car dealership. Apart from table creation, structure alteration and data insertion, it also contains views and queries, which are used to display relevant information, such as the performance of different selling locations.
 
-###[Fictional car dealership - PL/SQL & MongoDB](https://github.com/meli1230/fictional_car_dealership_2.git)
+### [Fictional car dealership - PL/SQL & MongoDB](https://github.com/meli1230/fictional_car_dealership_2.git)
 A project that enhances the car dealership database with procedural SQL (PL/SQL) and MongoDB, improving automation, data integrity, and query efficiency. It utilizes stored procedures, triggers, and sequences for structured data operations while integrating NoSQL for flexible data management.
 
 
