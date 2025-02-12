@@ -13,10 +13,8 @@ An SQL project that manages the database of a fictional car dealership. Apart fr
 ### [Fictional car dealership - PL/SQL & MongoDB](https://github.com/meli1230/fictional_car_dealership_2.git)
 A project that enhances the car dealership database with procedural SQL (PL/SQL) and MongoDB, improving automation, data integrity, and query efficiency. It utilizes stored procedures, triggers, and sequences for structured data operations while integrating NoSQL for flexible data management.
 
---------------------------------------------------------
-### Proiect de Semestru Medii de Programare si Dezvoltare
-## [ASP .NET (click here to view)](https://github.com/meli1230/DEV--Semester-Project.git)
-**Author:** Melisa Marian, grupa 4
+### [ASP .NET Car Dealership](https://github.com/meli1230/DEV--Semester-Project.git)
+An ASP.NET Core MVC project that manages vehicle data, customers, sellers, and test drives using Entity Framework Core and Razor Pages, providing full CRUD functionality and a structured backend.
 
 ### [Windows and Linux virtual machines](https://github.com/meli1230/windows_and_linux_vms)
 A project that contains 3 virtual machines: a machine that runs Windows Server, one that runs Windows Client and the last one running Ubuntu. You can find more details in the README file.
