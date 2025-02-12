@@ -19,6 +19,9 @@ An ASP.NET Core MVC project that manages vehicle data, customers, sellers, and t
 ### [PHP Web App - Women Techpower](https://github.com/meli1230/WEB--Project1.git)
 A PHP-based web application designed to manage events, jobs, mentorship programs, and user accounts. It enables CRUD operations for structured data management, offering an interactive dashboard with secure authentication.
 
+### [Laravel Web App - Women Techpower](https://github.com/meli1230/WEB--Project2.git)
+A Laravel-based web application that manages events, jobs, mentorship programs, and user authentication. It includes CRUD operations and role-based access control for dynamic content management.
+
 ### [Windows and Linux virtual machines](https://github.com/meli1230/windows_and_linux_vms)
 A project that contains 3 virtual machines: a machine that runs Windows Server, one that runs Windows Client and the last one running Ubuntu. You can find more details in the README file.
 
