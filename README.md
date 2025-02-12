@@ -16,7 +16,7 @@ A project that enhances the car dealership database with procedural SQL (PL/SQL)
 ### [ASP .NET Car Dealership](https://github.com/meli1230/DEV--Semester-Project.git)
 An ASP.NET Core MVC project that manages vehicle data, customers, sellers, and test drives using Entity Framework Core and Razor Pages, providing full CRUD functionality and a structured backend.
 
-### [Laravel Women Techpower](https://github.com/meli1230/WEB--Project1.git)
+### [PHP Web App - Women Techpower](https://github.com/meli1230/WEB--Project1.git)
 A PHP-based web application designed to manage events, jobs, mentorship programs, and user accounts. It enables CRUD operations for structured data management, offering an interactive dashboard with secure authentication.
 
 ### [Windows and Linux virtual machines](https://github.com/meli1230/windows_and_linux_vms)
