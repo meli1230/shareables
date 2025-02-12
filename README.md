@@ -13,6 +13,15 @@ A project that enhances the car dealership database with procedural SQL (PL/SQL)
 ### [Artificial Intelligence - Pacman Search](https://github.com/meli1230/AI--Project_2.git)
 An Artifical Intelligence Project, using DFS, BFS, UCS and A* to help Pacman navigate mazes efficiently, optimizing path collection and path finding.
 
+### [Artificial Intelligence - Pacman Complex Search](https://github.com/meli1230/AI--Project_3.git)
+An Artifical Intelligence Project, extending search techniques to multi-goal problems, implementing heuristics for corner-finding and food collection, while optimizing search efficiency.
+
+### [Artificial Intelligence - Pacman Search](https://github.com/meli1230/AI--Project_4.git)
+An Artifical Intelligence Project, introducing MiniMax, Alpha-Beta Pruning and Expectimax to model Pacman's interactions with ghosts, balancing strategic decision-making and survival.
+
+### [Artificial Intelligence - Pacman Search](https://github.com/meli1230/AI--Project_5.git)
+An Artifical Intelligence Project, applying Value Iteration, Q-Learning and Approximate Q-Learning to teach Pacman adaptive strategies through experience, improving long-term performance.
+
 ### [ASP .NET Car Dealership](https://github.com/meli1230/DEV--Semester-Project.git)
 An ASP.NET Core MVC project that manages vehicle data, customers, sellers, and test drives using Entity Framework Core and Razor Pages, providing full CRUD functionality and a structured backend.
 
