@@ -53,6 +53,5 @@ A project that analyzes the economic performance of companies in the IT and Insu
 A simple short project, coded in C, that manages a contact list using a doubly linked list. The program allows you to add or remove contacts, to search contacts by name and to display all the contacts. It also includes two sorting functions, each using a different sorting algorithm.
 
 # Contact
-## LinkedIn
-https://www.linkedin.com/in/melisa-marian-733883201/
+[LinkedIn](https://www.linkedin.com/in/melisa-marian-733883201/)
 
