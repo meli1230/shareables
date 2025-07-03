@@ -40,6 +40,10 @@ A project that contains 3 virtual machines: a machine that runs Windows Server, 
 ### [Network Infrastructure](https://github.com/meli1230/network_infrastructure.git)
 A project that sets up a Network and Distributed Systems environment with IP management, routing, and network services, enabling efficient connectivity, dynamic addressing, and remote website access within the network.
 
+
+### [Comparative Analysis with the use of Tableau](https://1drv.ms/f/c/209f40f1f86b6322/EsQgb3ZrsW9LthLVJ7HHKJYBNvCveXOwI6SIU01ixrl92g?e=Mz7rQs)
+This project analyzes the economic performance of companies in the **IT** and **Insurance** sectors located in **Cluj-Napoca, Turda, and Dej** (Romania) during the period **2018–2021**, using **Tableau Prep** for data preprocessing and **Tableau Desktop** for interactive dashboards and visual analytics.
+
 ### [Contacts list](https://github.com/meli1230/contacts_list)
 A simple short project, coded in C, that manages a contact list using a doubly linked list. The program allows you to add or remove contacts, to search contacts by name and to display all the contacts. It also includes two sorting functions, each using a different sorting algorithm.
 
