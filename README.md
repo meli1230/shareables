@@ -4,7 +4,7 @@ In order to acces a project, click on its name.
 
 ## Projects
 
-### Graph RAG Question Answering System with Feedback Refinement - code **NOT public yet**
+### Graph RAG Question Answering System with Feedback Refinement - code NOT public yet
 A hybrid system combining FAISS-indexed knowledge graphs and LLMs for precise, context-aware question answering. Built for academic exploration in knowledge-based retrieval and evaluation using BERTScore and MRR.
 
 ### [Fictional car dealership - SQL](https://github.com/meli1230/car_dealership)
