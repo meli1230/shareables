@@ -41,7 +41,7 @@ A project that contains 3 virtual machines: a machine that runs Windows Server, 
 A project that sets up a Network and Distributed Systems environment with IP management, routing, and network services, enabling efficient connectivity, dynamic addressing, and remote website access within the network.
 
 
-### [Comparative Analysis with the use of Tableau](https://github.com/meli1230/BI--tableau.git)
+### [Comparative Analysis with the use of Tableau](https://github.com/meli1230/BI--Tableau.git)
 A project that analyzes the economic performance of companies in the IT and Insurance sectors located in Cluj-Napoca, Turda, and Dej (Romania) during the period 2018–2021, using Tableau Prep for data preprocessing and Tableau Desktop for interactive dashboards and visual analytics.
 
 ### [Contacts list](https://github.com/meli1230/contacts_list)
