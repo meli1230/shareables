@@ -22,6 +22,9 @@ An Artifical Intelligence Project, introducing MiniMax, Alpha-Beta Pruning and E
 ### [Artificial Intelligence - Reinforcement Learning](https://github.com/meli1230/AI--Project_5.git)
 An Artifical Intelligence Project, applying Value Iteration, Q-Learning and Approximate Q-Learning to teach Pacman adaptive strategies through experience, improving long-term performance.
 
+### [Big Data - Binary Prediction of Flight Delays - SJC](https://github.com/meli1230/BIG--flight_delay.git)
+A project that aims to predict whether flights departing from San Jose International Airport (SJC), California are delayed or not, using binary classification models trained on a cleaned subset of the Flight Delay Dataset 2018–2024 from Kaggle.
+
 ### [ASP .NET Car Dealership](https://github.com/meli1230/DEV--Semester-Project.git)
 An ASP.NET Core MVC project that manages vehicle data, customers, sellers, and test drives using Entity Framework Core and Razor Pages, providing full CRUD functionality and a structured backend.
 
@@ -39,7 +42,6 @@ A project that contains 3 virtual machines: a machine that runs Windows Server, 
 
 ### [Network Infrastructure](https://github.com/meli1230/network_infrastructure.git)
 A project that sets up a Network and Distributed Systems environment with IP management, routing, and network services, enabling efficient connectivity, dynamic addressing, and remote website access within the network.
-
 
 ### [Comparative Analysis with the use of Tableau](https://github.com/meli1230/BI--Tableau.git)
 A project that analyzes the economic performance of companies in the IT and Insurance sectors located in Cluj-Napoca, Turda, and Dej (Romania) during the period 2018–2021, using Tableau Prep for data preprocessing and Tableau Desktop for interactive dashboards and visual analytics.
