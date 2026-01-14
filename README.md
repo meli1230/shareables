@@ -4,7 +4,7 @@ In order to acces a project, click on its name.
 
 ## Projects
 
-### Knowledge Graph-Enhanced Iterative RAG
+### Knowledge Graph-Enhanced Iterative RAG --> code not public yet 
 A Research prototype for an Iterative Knowledge Graph-Augmented Retrieval Augmented Generation (RAG), combining semantic retrieval, knowledge-graph expension and LLM-based answer evaluation for question answering.
 
 ### [Fictional car dealership - SQL](https://github.com/meli1230/car_dealership)
