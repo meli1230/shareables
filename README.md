@@ -7,9 +7,6 @@ In order to acces a project, click on its name.
 ### Knowledge Graph-Enhanced Iterative RAG
 A Research prototype for an Iterative Knowledge Graph-Augmented Retrieval Augmented Generation (RAG), combining semantic retrieval, knowledge-graph expension and LLM-based answer evaluation for question answering.
 
-Graph RAG Question Answering System with Feedback Refinement --> code NOT public yet
-A hybrid system combining FAISS-indexed knowledge graphs and LLMs for precise, context-aware question answering. Built for academic exploration in knowledge-based retrieval and evaluation using BERTScore and MRR.
-
 ### [Fictional car dealership - SQL](https://github.com/meli1230/car_dealership)
 An SQL project that manages the database of a fictional car dealership. Apart from table creation, structure alteration and data insertion, it also contains views and queries, which are used to display relevant information, such as the performance of different selling locations.
 
