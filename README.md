@@ -7,6 +7,9 @@ In order to acces a project, click on its name.
 ### Knowledge Graph-Enhanced Iterative RAG --> code not public yet 
 A Research prototype for an Iterative Knowledge Graph-Augmented Retrieval Augmented Generation (RAG), combining semantic retrieval, knowledge-graph expension and LLM-based answer evaluation for question answering.
 
+### [Distributed Job Scheduler](https://github.com/meli1230/DS--Project)
+A distributed systems project implementing a distributed job scheduler that coordinates tasks across worker nodes in a scalable architecture.
+
 ### [Fictional car dealership - SQL](https://github.com/meli1230/car_dealership)
 An SQL project that manages the database of a fictional car dealership. Apart from table creation, structure alteration and data insertion, it also contains views and queries, which are used to display relevant information, such as the performance of different selling locations.
 
