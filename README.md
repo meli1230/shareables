@@ -10,6 +10,9 @@ A Research prototype for an Iterative Knowledge Graph-Augmented Retrieval Augmen
 ### [Distributed Job Scheduler](https://github.com/meli1230/DS--Project)
 A distributed systems project implementing a distributed job scheduler that coordinates tasks across worker nodes in a scalable architecture.
 
+### [Machine-Generated Code Detection](https://github.com/meli1230/DL--Project.git)
+A deep learning project on machine-generated code detection in multilingual settings, focusing on cross-language generalization.
+
 ### [Fictional car dealership - SQL](https://github.com/meli1230/car_dealership)
 An SQL project that manages the database of a fictional car dealership. Apart from table creation, structure alteration and data insertion, it also contains views and queries, which are used to display relevant information, such as the performance of different selling locations.
 
