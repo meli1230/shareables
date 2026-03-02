@@ -5,7 +5,7 @@ In order to acces a project, click on its name.
 ## Projects
 
 ### Knowledge Graph-Enhanced Iterative RAG --> code not public yet 
-A Research prototype for an Iterative Knowledge Graph-Augmented Retrieval Augmented Generation (RAG), combining semantic retrieval, knowledge-graph expension and LLM-based answer evaluation for question answering.
+A research prototype for an iterative multi-hop Knowledge Graph–Augmented Retrieval-Augmented Generation (RAG) system, combining vector-based semantic retrieval with knowledge graph expansion and LLM-based answer evaluation. The pipeline integrates automated evaluation using BERTScore, cosine similarity, and LLM-based quality metrics to iteratively refine context through semantic neighbor expansion for improved question answering.
 
 ### [Distributed Job Scheduler](https://github.com/meli1230/DS--Project)
 A distributed systems project implementing a distributed job scheduler that coordinates tasks across worker nodes in a scalable architecture.
