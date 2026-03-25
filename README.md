@@ -5,7 +5,7 @@ In order to acces a project, click on its name.
 ## Projects
 
 ### [Knowledge Graph Iterative Retrieval Augmented Generation (KGiRAG)](https://www.scitepress.org/PublicationsDetail.aspx?ID=UgY6avb7BJY%3d&t=1)
-Collaborative project, implementing an iterative, feedback-driven GraphRAG architecture that enhances LLM responses by leveraging graph-based retrieval and continuous quality evaluation. Tested on HotPotQA, it demonstrates improved semantic quality and relevance compared to traditional single-shot RAG approaches. Accepted at ICAART 2026 as a short paper.
+A collaborative project, implementing an iterative, feedback-driven GraphRAG architecture that enhances LLM responses by leveraging graph-based retrieval and continuous quality evaluation. Tested on HotPotQA, it demonstrates improved semantic quality and relevance compared to traditional single-shot RAG approaches. Accepted at ICAART 2026 as a short paper.
 
 ### [Distributed Job Scheduler](https://github.com/meli1230/DS--Project)
 A distributed systems project implementing a distributed job scheduler that coordinates tasks across worker nodes in a scalable architecture.
