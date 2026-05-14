@@ -4,10 +4,10 @@ In order to acces a project, click on its name.
 
 ## Table of Contents
 My projects are split into the following categories: 
-I. Artificial Intelligence & NLP
-II. Distributed Systems, Cloud & Infrastructure
-III. Web Development & Software Engineering 
-IV. Databases & Data Engineering
+- I. Artificial Intelligence & NLP
+- II. Distributed Systems, Cloud & Infrastructure
+- III. Web Development & Software Engineering 
+- IV. Databases & Data Engineering
 
 ## Projects
 
