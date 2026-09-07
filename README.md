@@ -13,7 +13,7 @@ My projects are split into the following categories:
 
 ### I. Artificial Intelligence & NLP
 
-#### [Knowledge Graph Iterative Retrieval Augmented Generation (KGiRAG)](https://arxiv.org/abs/2604.20859)
+#### [Knowledge Graph Iterative Retrieval Augmented Generation (KGiRAG) - accepted at ICAART 2026](https://arxiv.org/abs/2604.20859)
 A collaborative project, implementing an iterative, feedback-driven GraphRAG architecture that enhances LLM responses by leveraging graph-based retrieval and continuous quality evaluation. Tested on HotPotQA, it demonstrates improved semantic quality and relevance compared to traditional single-shot RAG approaches. Accepted at ICAART 2026 as a short paper.
 
 #### [Machine-Generated Code Detection](https://github.com/meli1230/DL--Project.git)
