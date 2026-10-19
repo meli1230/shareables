@@ -13,7 +13,7 @@ My projects are split into the following categories:
 
 ### I. Artificial Intelligence & NLP
 
-#### [Wikidata Prompt-based SPARQL Generation (WikiProSP) - accepted as a Workshop paper at ISWC 2026](https://ceur-ws.org/Vol-4284/paper3.pdf)
+#### [Wikidata Prompt-based SPARQL Generation (WikiProSP) - accepted at the WikiKGQA Challenge @ ISWC 2026](https://ceur-ws.org/Vol-4284/paper3.pdf)
 Developed a knowledge graph question-answering system for automated SPARQL generation over Wikidata, comparing retrieval-based (TF-IDF, BM25) and LLM-based (zero-shot, few-shot, few-shot with repair) strategies. Integrated entity and property annotations and retrieval-augmented prompting.
 
 #### [Knowledge Graph Iterative Retrieval Augmented Generation (KGiRAG) - accepted at ICAART 2026](https://arxiv.org/abs/2604.20859)
